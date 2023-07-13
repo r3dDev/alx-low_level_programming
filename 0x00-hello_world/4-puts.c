@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * puts a sentence and returns 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
