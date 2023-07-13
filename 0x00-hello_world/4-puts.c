@@ -1,6 +1,7 @@
 #include<stdio.h>
-/*
- * main - Entry point 
+/**
+ * main - Entry point
+ *
  * puts a sentence and returns 0
  */
 int main(void)
